@@ -1,0 +1,15 @@
+<Customer>
+    <name>George K</name>
+    <email>georgek@gmail.com</email>
+    <phone>1234567890</phone>
+    <address>123 Main St, Anytown, USA</address>
+    <city>Anytown</city>
+    <state>CA</state>
+    <zip>12345</zip>
+    <country>USA</country>
+    <ssn>123-45-6789</ssn>
+    <dob>1990-01-01</dob>
+    <gender>M</gender>
+    <marital_status>Single</marital_status>
+    <employment_status>Employed</employment_status>
+</Customer>
